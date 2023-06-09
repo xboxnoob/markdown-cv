@@ -28,10 +28,10 @@ Languages
 * __Russian__ - Fluent
           
  ## About me
- Interests  
+ __Interests__  
  * Have been tinkering and messing with electronics and computers since a young age  
  
- Skills  
+ __Skills__  
  * Basic Soldering skills
  * Basic Electronics Repair
  * Experience in Windows and Linux and rudimentary knowledge of MacOS
