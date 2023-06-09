@@ -30,6 +30,7 @@ Languages
  ## About me
  Interests  
  * Have been tinkering and messing with electronics and computers since a young age  
+ 
  Skills  
  * Basic Soldering skills
  * Basic Electronics Repair
