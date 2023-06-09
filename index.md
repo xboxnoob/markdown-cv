@@ -6,7 +6,7 @@ title: Conor Halpins's CV
 Amateur Programmer, Tech enthusiast
 
 <div id="webaddress">
-<a href="conorhalpin21@gmail.com">conorhalpin21@gmail.com</a>
+<a href="mailto:conorhalpin21@gmail.com">conorhalpin21@gmail.com</a>
 | <a>+353894325664</a>
 </div>
 
@@ -27,6 +27,14 @@ Languages
 * __English__ - Fluent  
 * __Russian__ - Fluent
           
+ ## About me
+ Interests  
+ * Have been tinkering and messing with electronics and computers since a young age  
+ Skills  
+ * Basic Soldering skills
+ * Basic Electronics Repair
+ * Experience in Windows and Linux and rudimentary knowledge of MacOS
+ 
 
 <!-- ### Footer
 
