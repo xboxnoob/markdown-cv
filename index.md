@@ -16,7 +16,8 @@ Amateur Programmer, Tech enthusiast
 __DK Couriers ltd. (trading as Fastway NEA)__
 
 ## Education
-
+`2008-2016`
+__Monastery National School__  
 `2016-2022`
 __Ardee Comunity School.__
 
