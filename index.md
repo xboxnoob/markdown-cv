@@ -27,11 +27,11 @@ Languages
 * __English__ - Fluent  
 * __Russian__ - Fluent
           
- ## About me
- __Interests__  
+## About me
+__Interests__  
  * Have been tinkering and messing with electronics and computers since a young age  
  
- __Skills__  
+__Skills__  
  * Basic Soldering skills
  * Basic Electronics Repair
  * Experience in Windows and Linux and rudimentary knowledge of MacOS
